@@ -1,0 +1,13 @@
+h1{
+    color: white;
+    text-align: center;
+    font-size: 50px;
+}
+
+.true{
+    background-color: chartreuse;
+}
+
+.false{
+    background-color: crimson;
+}
